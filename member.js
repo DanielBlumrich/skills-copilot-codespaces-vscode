@@ -1,4 +1,4 @@
-function skillMembers()) {
+function skillsMembers() {
   var members = ['Tom', 'Jerry', 'Donald', 'Daisy', 'Huey', 'Dewey', 'Louie'];
   var skills = ['HTML', 'CSS', 'JavaScript', 'React', 'Redux', 'Node', 'MongoDB'];
   var skillMembers = [];
